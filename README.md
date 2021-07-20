@@ -2,7 +2,7 @@
 Use robot_pose_ekf and odom_to_trajectory ROS pkg to localize turtlebot.
 
 
-This tutorial closely follows Udacity's Robotics Engineer Nano Degree. So, many procedures will in corresponding to this Nano Degree course.
+This tutorial closely follows Udacity's Robotics Engineer Nano Degree. So, many procedures will be in correspondense to this Nano Degree course.
 
 ---
 
