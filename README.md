@@ -87,9 +87,17 @@ $ roslaunch odom_to_trajectory create_trajectory.launch </br>
 $ roslaunch turtlebot_teleop keyboard_teleop.launch </br>
 $ rosrun rviz rviz </br>
 
-## Teleoperate the turtlebot
+### Teleoperate the turtlebot
 Make sure you are inside the terminal where you launched your main.launch file.
 **Follow the instuctions in the terminal(use given keys to teleoperate)**
+
+While teleoperating you will see to paths red and green slightly overlapping in the rviz window. </br>
+**Green - Filtered Trajectory** </br>
+**Red   - Unfiltered Trajectory** </br>
+
+
+https://user-images.githubusercontent.com/66440615/126311955-6f0094cc-cac5-4ee6-a573-5ab1b1ca5a4c.mp4
+
 
 ## View list of topics and nodes through rqt tools:
 Now that you’ve launched the nodes, open a new terminal and run the **rqt graph**.
